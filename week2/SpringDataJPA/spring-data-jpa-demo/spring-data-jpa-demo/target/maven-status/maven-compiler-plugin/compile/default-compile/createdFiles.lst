@@ -1,0 +1,5 @@
+com\cognizant\spring_data_jpa_demo\CountryTest.class
+com\cognizant\spring_data_jpa_demo\SpringDataJpaDemoApplication.class
+com\cognizant\spring_data_jpa_demo\model\Country.class
+com\cognizant\spring_data_jpa_demo\repository\CountryRepository.class
+com\cognizant\spring_data_jpa_demo\service\CountryService.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Week1.TDD_JUnit_Mockito_SLF4J.VerifyingInteractions.src.test.java.VerifyInteractionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.984 s -- in Week1.TDD_JUnit_Mockito_SLF4J.VerifyingInteractions.src.test.java.VerifyInteractionTest
