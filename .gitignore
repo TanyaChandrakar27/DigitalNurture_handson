@@ -9,3 +9,7 @@ target/
 
 # Logs
 *.log
+
+# Node
+node_modules/
+npm-debug.log*
